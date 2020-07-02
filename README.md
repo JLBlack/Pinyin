@@ -1,2 +1,0 @@
-# Pinyin
-Pinyin flashcard game
